@@ -15,3 +15,4 @@ Forecasting sales and future demand using predictive simulations
 Optimizing product placements and promotional strategies through customer heatmapping
 
 This project focuses on harnessing the power of data analytics to streamline retail operations, improve customer satisfaction, and enhance decision-making through advanced customer intelligence techniques.
+![ChatGPT Image May 24, 2025, 05_37_36 PM](https://github.com/user-attachments/assets/115d2061-c777-456b-8071-c339cfd64c01)
